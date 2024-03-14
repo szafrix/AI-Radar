@@ -19,6 +19,8 @@ config = {
     "daily_papers_folder": "database/daily_papers/",
 }
 
+# TODO: add pdf postprocessing (delete citations etc)
+
 
 class HuggingfaceClient:
 
